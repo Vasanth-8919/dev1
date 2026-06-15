@@ -1,1 +1,1 @@
-
+git is a free, open-source distributed version control system (VCS) designed to track changes in source code during software development
