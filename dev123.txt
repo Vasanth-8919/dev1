@@ -1,1 +1,1 @@
-
+git is a free, open-source distributed version control system (VCS) designed to track changes in source code during software development.Created by Linus Torvalds in 2005 to manage the Linux kernel project
